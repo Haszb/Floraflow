@@ -17,7 +17,7 @@ Our ultimate goal is to provide the foundations of a robust tool for plant class
 Behind FloraFlow are four individuals in training at DataScientest:
 
 - Gilles de Peretti [Linkedin](https://www.linkedin.com/in/gilles-de-peretti-8219425a/) - [GitHub](https://github.com/gillesdeperetti)
-- Hassan ZBIB [Linkedin](https://www.linkedin.com/in/zbib-hassan-a34573272/) - [GitHub](https://github.com/Haszb)
+- Hassan ZBIB [Linkedin](https://www.linkedin.com/in/zbib-hassan/) - [GitHub](https://github.com/Haszb)
 - Dr. Iréné AMIEHE ESSOMBA [Linkedin](https://www.linkedin.com/in/amiehe-essomba "Amiehe Essomba") - [GitHub](https://github.com/amiehe-essomba "Amiehe Essomba")
 - Olivier MOTELET [Linkedin](#) - [GitHub](#)
 
